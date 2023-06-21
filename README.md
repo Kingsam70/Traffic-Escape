@@ -29,4 +29,3 @@ In our current example, neither of these considerations have been taken into acc
 The turtle size is set to a fixed value of 20 pixels by 20 pixels. Therefore, collision detection may not be entirely accurate, as it does not consider the actual dimensions of the car image
 
 3. # Also you can add high score mechanism using txt file
-4. 

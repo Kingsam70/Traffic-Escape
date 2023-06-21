@@ -28,4 +28,6 @@ In our current example, neither of these considerations have been taken into acc
 2. Please note that if you collide with a car horizontally (in the x-direction), the car will overlap with your vehicle. This means that the program will not end immediately upon collision, as the overlap is due to the different height and width of the car GIF images compared to the fixed size of the turtle.
 The turtle size is set to a fixed value of 20 pixels by 20 pixels. Therefore, collision detection may not be entirely accurate, as it does not consider the actual dimensions of the car image
 
-3. # Also you can add high score mechanism using txt file
+3. Also you can add high score mechanism using txt file
+
+4. # user_car is turtle
